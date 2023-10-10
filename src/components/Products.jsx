@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { popularProducts } from "../data";
 import Product from "./Product";
 import axios from "axios";
-import { BASE_URL } from "../requestMethods"
+const BASE_URL = "https://ed-a-mammaa.onrender.com";
 
 const Container = styled.div`
   padding: 20px;
