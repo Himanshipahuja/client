@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://ed-a-mama.onrender.com";
+const BASE_URL = "https://ed-a-mammaa.onrender.com";
 
 
 const user = JSON.parse(localStorage.getItem("persist:root"))?.user;
